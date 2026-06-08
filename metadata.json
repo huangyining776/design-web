@@ -1,0 +1,6 @@
+{
+  "name": "Tactile Studio Portfolio",
+  "description": "An interactive paper-textured, tech-forward personal designer portfolio featuring generative layout mechanics, internationalization, and fluent tactile micro-animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
